@@ -1,0 +1,243 @@
+.fa-angle-left {
+    color: #000;
+}
+
+.fa-angle-right {
+    color: #000;
+}
+
+@media only screen and (max-width: 762px) {
+    #fadeshow1 {
+        display: none;
+    }
+}
+
+.logo p {
+    font-family: Myriad Pro, ;
+    color: #111111;
+}
+
+input.form-control {
+    box-shadow: none;
+    border: 1.5px solid #E3E6ED;
+    background-color: #fff;
+    border-radius: 25px;
+    border-right: none;
+}
+
+button.bg-search {
+    border-radius: 0px 25px 25px 0px;
+    box-shadow: none;
+    border: 1.5px solid #E3E6ED;
+    background-color: #fff;
+}
+
+.bg-search i {
+    padding: 6px;
+}
+
+.list ul li a {
+    text-decoration: none;
+    color: #121212;
+}
+
+.list ul li a i {
+    color: #121212;
+}
+
+.list ul li {
+    list-style: none;
+    float: left;
+    padding: 10px;
+}
+
+#menu nav ul li a {
+    color: #111111;
+    right: 1px;
+}
+
+#sale1 .text {
+    color: #000;
+    position: absolute;
+    top: 45px;
+    left: 40px;
+}
+
+#sale1 .text h3 {
+    background-color: #ffc0ff;
+    padding: 10px;
+    color: #fff;
+    width: 150px;
+}
+
+#sale1 .text a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #000;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+#sale1 .text2 {
+    color: #000;
+    position: absolute;
+    top: 45px;
+    left: 40px;
+}
+
+#sale1 .text2 h3 {
+    background-color: #d5c0ff;
+    padding: 10px;
+    color: #fff;
+    width: 150px;
+}
+
+#sale1 .text2 a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #000;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+#list-sp-1 h2 {
+    text-align: center;
+    color: #dddddd;
+}
+
+#list-sp-1 h2:active {
+    color: #000;
+}
+
+#list-sp-1.col-md-3.list-sp {
+    background: red;
+}
+
+#sp1 {
+    margin-top: 10px;
+}
+
+#sp1 .text {
+    position: absolute;
+    top: 15px;
+}
+
+#sp1 .text p {
+    color: #fff;
+    background: #70abff;
+    width: 50px;
+    padding: 6px;
+    margin-left: 3px;
+}
+
+#sp1 .text img {
+    margin-left: 35px;
+}
+
+#sp1 .text i {
+    float: right;
+    background-color: #fff;
+    border: 2px solid #fff;
+    border-radius: 25px;
+    padding: 7px;
+}
+
+#sp1 p {
+    text-align: center;
+    color: #a09f9f;
+}
+
+.bd-sp {
+    border: 1px solid #dcdcdc;
+}
+
+#sale2 .text3 {
+    position: absolute;
+    top: 55px;
+    margin-left: 40px;
+    color: #fff;
+    border-left: 1px solid#fff;
+    border-right: 1px solid#fff;
+    border-style: double;
+    border-left: none;
+    border-right: none;
+}
+
+
+/* .text3 h3 {
+    border: 1px 0px 1px 0px solid #fff;
+    border-style: double;
+} */
+
+.text4 {
+    position: absolute;
+    top: 30px;
+    margin-left: 20px;
+}
+
+.text4 b {
+    font-size: 13px;
+}
+
+.text4 p {
+    font-size: 12px
+}
+
+.text5 ul li {
+    list-style: none;
+    padding: 3px;
+    margin-left: -40px;
+}
+
+.text5 ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+.ft p {
+    text-align: center;
+    border-top: 1px solid #000;
+    padding: 3px;
+}
+
+.mr-top-25 {
+    margin-top: 25px;
+}
+
+.text6 {
+    position: absolute;
+    top: 100px;
+    left: 150px
+}
+
+.text6 h3 {
+    font-weight: 100;
+}
+
+.text6 a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #000;
+    border-radius: 25px;
+    padding: 12px;
+}
+
+.text6 hr {
+    width: 250px;
+    float: left;
+    border-top: 5px double #000;
+}
+
+.font-search-email input {
+    border-radius: 0px;
+}
+
+.font-search-email button.bg-search {
+    border-radius: 0px;
+}
+
+.text7 {
+    position: absolute;
+    top: 60px;
+    margin-left: 230px;
+}
